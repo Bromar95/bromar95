@@ -41,4 +41,4 @@ I work where medicine meets data. I've spent years documenting patient care as a
   <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="45" height="45"/>
 </a>
 
-📧 omarshazley@gmail.com##
+📧 omarshazley@gmail.com
