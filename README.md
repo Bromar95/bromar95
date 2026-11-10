@@ -15,7 +15,10 @@ I work where medicine meets data. I've spent years documenting patient care as a
 
 - **Excel:** PivotTables, pivot charts, XLOOKUP, INDEX/MATCH, slicers, and interactive dashboards
 - **SQL:** Querying, joining, and summarizing data (SQL Bootcamp certified)
-- **Power BI and Python:** Currently learning, with projects on the way
+- **Python:** pandas, NumPy, Matplotlib, Seaborn, Plotly, and scikit-learn in Jupyter and VS Code
+- **Machine learning:** Logistic regression, Random Forest, Gradient Boosting, K-means clustering, cross-validation, ROC/AUC, and threshold tuning
+- **Statistical modeling:** Monte Carlo simulation, RFM segmentation, backtesting, and sensitivity analysis
+- **Power BI:** Currently learning, with projects on the way
 - **Clinical data:** EHR systems (Epic, Cerner), clinical documentation, and chart-level data review and annotation
 - **AI evaluation:** Clinical vignettes, expert rationales, and weighted rubrics for scoring model outputs
 - **Research:** 10+ peer-reviewed publications, survey design, IBM SPSS, journal peer review and editing
